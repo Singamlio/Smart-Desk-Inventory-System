@@ -47,3 +47,6 @@ flowchart TD
 STEP 3: Build the Minimum Viable Product
 
 This will be my first attempt at making the prototype for this system.
+
+I first, wrote a python script to get the bar code scanner's input and print it. I then added if statements to detect certain bar codes, that we can call "special codes". 
+
