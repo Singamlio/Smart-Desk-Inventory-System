@@ -18,3 +18,5 @@ while True:
 
         if barcode:
             print(f"Barcode: {barcode}")
+        if barcode = "x" #Put special barcode in here for special action
+            print("Special Barcode Detected!") #Put Special action here
