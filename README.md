@@ -49,4 +49,7 @@ STEP 3: Build the Minimum Viable Product
 This will be my first attempt at making the prototype for this system.
 
 I first, wrote a python script to get the bar code scanner's input and print it. I then added if statements to detect certain bar codes, that we can call "special codes". 
+Then, I learned about database files and using SQLite to parse through them using various scripts. I then used AI to help synthesize the commands into one script that consists of functions for each commands, such as adding items or printing all the items in the database. To finish up most of the code, I made it so when an item was scanned, there were prompts for the details and then have the item added to the database.
+
+The next step was setting up raspberry pi and the hardware aspect.
 
