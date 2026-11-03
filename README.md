@@ -53,3 +53,5 @@ Then, I learned about database files and using SQLite to parse through them usin
 
 The next step was setting up raspberry pi and the hardware aspect.
 
+I printed a prototype of a single box that would make up the storage system, and added a two holes in order to allow for wiring. I then wired an LED into the holes and connected them to the Raspberry Pi. Now, it was time to implement the code in order to make the LED turn on.
+
